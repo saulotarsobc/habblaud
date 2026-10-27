@@ -10,6 +10,10 @@ do meio (0.**3**.0).
 
 ## [Não lançado]
 
+### Adicionado
+
+- Instalação local no Windows com `habblaud.ps1`, auxiliar do Codex no login e adaptador dos caminhos dos hooks para PowerShell.
+
 ## [1.0.3] - 2026-10-16
 
 ### Corrigido
